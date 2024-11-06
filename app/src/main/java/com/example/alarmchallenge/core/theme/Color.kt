@@ -1,4 +1,4 @@
-package com.example.alarmchallenge.ui.theme
+package com.example.alarmchallenge.core.theme
 
 import androidx.compose.ui.graphics.Color
 

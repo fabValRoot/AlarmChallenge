@@ -1,4 +1,4 @@
-package com.example.alarmchallenge.ui.theme
+package com.example.alarmchallenge.core.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
